@@ -20,7 +20,6 @@ Commit 17 line
 Commit 18 line
 Commit 19 line
 Commit 20 lin
-
 Commit 1 line
 Commit 2 line
 Commit 3 line
